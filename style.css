@@ -1,0 +1,19 @@
+div {
+	text-align:center;
+	}
+.entete{
+    background-color:#00CCFF;
+    height:100px;
+    
+}
+.corps{
+    background-color:#FFCC00;
+    height:640px;
+    
+}
+.piedpage{
+            background-color:#33FF99;
+            height:100px;
+            
+        }
+    

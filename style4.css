@@ -1,0 +1,52 @@
+div {
+	text-align:center;
+    }
+    
+.entete{
+    background-color:#00CCFF;
+    height:100px;
+    
+}
+
+.corps{
+    background-color:#FFCC00;
+    height:640px;
+    
+}
+
+.piedpage{
+            background-color:#33FF99;
+            height:100px;
+            
+        }
+        .menu{
+            float:left;
+            width:100px;
+            height:640px;
+            background-color:#FF6699;
+                    }
+
+.menuhaut {
+width:100px;
+height:320px;
+background-color:#66CC33;
+        }
+
+.menubas {
+width:100px;
+ height:320px;
+background-color:#CC99CC;
+        }
+.blocnews {
+float:right;
+width:220px;
+height:220px;
+background-color:#FF3300;
+            }
+.border{
+    border: 1px solid #FFCC00;
+    margin-left: 0px; margin-top: 0px;
+    padding-left :100px; 
+    border-block-end-width:234px; 
+    
+}
