@@ -25,6 +25,22 @@
 </tr>
 
 </table>
+<xmp>
+$tableau = array('Nom' => 'Fresi','Prenom' => 'Mattei','MDP' => 18);
+?>
+<tr>
+    <td>
+ echo $tableau['Nom'];
+    </td>
+    <td>
+
+ echo $tableau['Prenom'];
+    </td>
+    <td>
+ echo $tableau['MDP'];
+    </td>
+</tr>
+</xmp>
 
 <a href="http://192.168.65.195/ProjetBTS/Mattei/Exercice%20PHP/">Retour</a><br>
 </body>

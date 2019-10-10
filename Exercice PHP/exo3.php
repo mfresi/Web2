@@ -24,8 +24,26 @@
     }
 }
 ?>
-<tr>
+</tr>
 </table>
+<xmp>
+<tr>
+      $tab[0] = array("nom"=> "Fresi","Prenom"=>"Mattei","motDePasse"=>"1234");
+      $tab[1] = array("nom"=> "Omeluck","Prenom"=>"Sylvie","motDePasse"=>"4567");
+      $tab[2] = array("nom"=> "Hameau","Prenom"=>"Eliott","motDePasse"=>"8910");
+
+ for ($i=0;$i<3;$i++){
+     foreach ($tab[$i] as $Key=>$Value)
+    {
+    
+        <tr><td> echo $Key;</td>
+        <td> echo $Value;</td></tr>
+        
+    }
+}
+
+</tr>
+</xmp>
 
 <a href="http://192.168.65.195/ProjetBTS/Mattei/Exercice%20PHP/">Retour</a><br>   
 </body>

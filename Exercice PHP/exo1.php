@@ -27,11 +27,34 @@
             </div>
             <?php
         }
-      
+      ?>
         
         
-        ?>
-    <a href="http://192.168.65.195/ProjetBTS/Mattei/Exercice%20PHP/">Retour</a><br>
+        
+    <xmp>
+
+     $NombreAleatoire = rand ( 0 , 100 );
+        
+        if ($NombreAleatoire%2 == 1){
+            
+            <div id="bleu">
+             echo "$NombreAleatoire est impair";
+             
+             </div>
+            
+        }
+        else {
+            ?>
+            <div id="rouge">
+             echo "$NombreAleatoire est pair";
+            
+            </div>
+            
+        }
+         
+    </xmp>
+   
+<a href="http://192.168.65.195/ProjetBTS/Mattei/Exercice%20PHP/">Retour</a><br>
     </div>
 
     </body>

@@ -22,6 +22,20 @@
     </tr>
 </table>
 
+<xmp>
+    
+    <tr>
+    $MonTableauDeChiffre = array(12,132,13,65,474);
+    //i++ reviens a $i=$i+1
+    for ($i=0; $i < 5; $i++) {
+        ?><td> echo $MonTableauDeChiffre[$i]; ?></td>
+    
+    }
+
+
+    </tr>
+</xmp>
+
 <a href="http://192.168.65.195/ProjetBTS/Mattei/Exercice%20PHP/">Retour</a><br>
     
 </body>

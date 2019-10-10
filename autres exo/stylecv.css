@@ -1,0 +1,61 @@
+.dimension{  /* characteristics of the Div dimension */
+    background-color:#FFFFFF;    
+    height:2339px;
+    width:1062.84px;
+    background-size: cover;
+
+}
+.corps{  /* characteristics of the Div corps */
+    background-color:#FFFFFF;
+    height:2339px;
+    width:1064.84px;
+    
+}
+.personaldata{  /* characteristics of the Div personaldata */
+    background-color:#FFFFFF;
+    height:20%;
+    width:100%;
+    
+}
+.ProfessionalExperiences{  /* characteristics of the Div ProfessionalExperiences */
+    background-color:#FFFFFF;
+    height:20%;
+    width:100%;
+    
+}
+.date{  /* characteristics of the Div date */
+    background-color:#FFFFFF;
+    text-align : right;
+}
+.training{  /* characteristics of the Div training */
+    background-color:#FFFFFF;
+    height:20%;
+    width:100%;
+    
+}
+.computerskills{  /* characteristics of the Div computerskills */
+    background-color:#FFFFFF;
+    height:20%;
+    width:100%;
+    
+}
+.languages{  /* characteristics of the Div languages */
+    background-color:#FFFFFF;
+    height:20%;
+    width:100%;
+    
+}
+.Hobbies{  /* characteristics of the Div Hobbies */
+    background-color:#FFFFFF;
+    height:20%;
+    width:100%;
+    
+}
+.border{  /* characteristics of the Div border */
+    border: 1px solid #FFFFFF;
+    margin-left: 10%; margin-top: auto; margin-right: 10%;
+    padding-left :auto; 
+    border-block-end-width:auto; 
+    
+}
+
